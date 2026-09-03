@@ -1,2 +1,2 @@
-# CIT-IBM-project-
+# ICT-IBM-project-
 IBM project under ICT 
